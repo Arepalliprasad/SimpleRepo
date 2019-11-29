@@ -1,3 +1,3 @@
 #!/bin/bash
-sudo g++ -o output Hellow_world.cpp
+sudo arm-cortexa9-linux-gnueabi-g++ -o output Hellow_world.cpp
 
