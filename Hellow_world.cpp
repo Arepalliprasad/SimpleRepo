@@ -1,9 +1,10 @@
 #include<iostream>
+using namespace std;
 
 int main()
 {
 
-    std::cout<<" jai sai ram "<<std::endl;
+    cout<<" jai sai ram "<<std::endl;
 
     return 0;
 
