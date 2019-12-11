@@ -3,7 +3,7 @@
 int main()
 {
 
-    std::cou<<" jai sai ram "<<std::endl;
+    std::cout<<" jai sai ram "<<std::endl;
 
     return 0;
 
