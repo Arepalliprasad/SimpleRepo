@@ -1,3 +1,3 @@
 #!/bin/bash
-gcc Hellow_world.cpp -o output
+gcc jenkinsTest.c -o output
 
