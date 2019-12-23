@@ -1,3 +1,3 @@
 #!/bin/bash
-g++ Hellow_world.cpp -o output
+gcc Hellow_world.cpp -o output
 
